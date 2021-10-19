@@ -1,5 +1,8 @@
-// Website
-@import "partials/header";
-
 // Utilities
 @import "partials/utilities/variables";
+
+// Base
+@import "partials/base/reset";
+
+// Website
+@import "partials/header";
