@@ -1,4 +1,8 @@
 .header {
+    position: sticky;
+    z-index: 100;
+    top: 0px;
+    left: 0px;
     &__nav {
         background-color: $bg-color;
         padding: 1.5rem;
