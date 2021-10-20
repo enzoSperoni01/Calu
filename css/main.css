@@ -40,3 +40,8 @@ html {
       padding-bottom: 0; }
     .header__nav__list__a:hover {
       color: #fff; }
+
+.footer__div {
+  padding: 1.8rem; }
+  .footer__div__text {
+    font-size: 1.3rem; }
