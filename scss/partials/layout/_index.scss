@@ -23,7 +23,9 @@
             background-color: $color-muted_midtone;
             padding: 1.8rem;
             margin: 2rem .5rem;
-            border-radius: 2rem;
+            border-radius: 1rem;
+            box-shadow:rgba(0, 0, 0, 0.3) 0px 10px 20px,
+                        rgba(0, 0, 0, 0.25) 0px 6px 6px;
             &__h2 {
                 font-weight: $font-bold;
                 font-size: 2rem;
