@@ -29,6 +29,8 @@ html {
       font-weight: 900;
       letter-spacing: .15rem;
       margin-left: .5rem; }
+    .header__nav__logo:hover {
+      color: #0055ff; }
     .header__nav__btn {
       font-size: 1.8rem; }
     .header__nav__list {
