@@ -1,3 +1,10 @@
 // Typography
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;700;900&display=swap'); // Inter
-@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap'); // Scheherazade
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;500;700;900&display=swap'); // Roboto Slab
+html {
+    font-size: 62.5%; // 1rem == 10px
+    font-family: $font-primary;
+    body {
+        font-family: $font-primary; // Inter
+    }
+}

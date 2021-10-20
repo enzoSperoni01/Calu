@@ -1,13 +1,14 @@
+@import "./utilities/variables";
 .header {
     &__nav {
         background-color: $bg-color;
-        padding: 1rem;
+        padding: 1.5rem;
         &__logo {
             color: $color-white;
             text-decoration: none;
             font-size: 2.5rem;
             font-style: $font-secondary;
-            font-weight: $font-bold-s;
+            font-weight: $font-medium-roboto;
             letter-spacing: .1rem;
             margin-left: .5rem;
         }
@@ -15,19 +16,20 @@
             color: $color-white;
         }
         &__btn {
-            font-size: 1.6rem;
-            &__span {
-                box-shadow: 1px solid $color-rich_light;
-            }
+            font-size: 1.8rem;
         }
         &__list {
-            font-size: 1.6rem;
+            padding: 1.1rem;
+            font-size: 1.8rem;
             text-align: center;
             &__a {
-                padding: .8rem;
+                padding: 1rem;
                 text-decoration: none;
                 color: $color-white;
                 letter-spacing: .1rem;
+            }
+            &__a:last-child {
+                padding-bottom: 0;
             }
             &__a:hover {
                 color: $color-white;
