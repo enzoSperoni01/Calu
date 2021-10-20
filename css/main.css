@@ -47,6 +47,29 @@ html {
       .header__nav__list__a:hover {
         color: #fff; }
 
+#main-index .main__div__h1 {
+  text-align: center;
+  font-size: 3.2rem;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.3;
+  padding: 1.5rem; }
+
+#main-index .main__div__div-2 {
+  background-color: #4C41C6;
+  padding: 1.8rem;
+  margin: 1rem;
+  border-radius: 1.5rem; }
+  #main-index .main__div__div-2__h2 {
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    color: #fff; }
+  #main-index .main__div__div-2__p {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #fff; }
+
 .footer__div {
   padding: 1.8rem; }
   .footer__div__text {
