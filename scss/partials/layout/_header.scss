@@ -6,15 +6,16 @@
     &__nav {
         // background-color: $bg-color;
         background-color: white;
-        box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.45);
+        box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.45);
         padding: 1.5rem;
         &__logo {
             // color: $color-white;
+            color: hsl(220, 100%, 50%);
             text-decoration: none;
-            font-size: 2.5rem;
+            font-size: 2.6rem;
             font-style: $font-secondary;
-            font-weight: $font-light-roboto;
-            letter-spacing: .1rem;
+            font-weight: $font-black-roboto;
+            letter-spacing: .15rem;
             margin-left: .5rem;
         }
         &__logo:hover {
@@ -31,6 +32,9 @@
                 padding: 1rem;
                 text-decoration: none;
                 // color: $color-white;
+                color: hsl(220, 100%, 65%);
+                font-style: $font-primary;
+                font-weight: $font-bold;
                 letter-spacing: .1rem;
             }
             &__a:last-child {
@@ -38,6 +42,7 @@
             }
             &__a:hover {
                 // color: $color-white;
+                color: hsl(220, 100%, 65%);
             }
         }
     }
