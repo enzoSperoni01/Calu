@@ -4,10 +4,12 @@
     top: 0px;
     left: 0px;
     &__nav {
-        background-color: $bg-color;
+        // background-color: $bg-color;
+        background-color: white;
+        box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.45);
         padding: 1.5rem;
         &__logo {
-            color: $color-white;
+            // color: $color-white;
             text-decoration: none;
             font-size: 2.5rem;
             font-style: $font-secondary;
@@ -16,7 +18,7 @@
             margin-left: .5rem;
         }
         &__logo:hover {
-            color: $color-white;
+            // color: $color-white;
         }
         &__btn {
             font-size: 1.8rem;
@@ -28,14 +30,14 @@
             &__a {
                 padding: 1rem;
                 text-decoration: none;
-                color: $color-white;
+                // color: $color-white;
                 letter-spacing: .1rem;
             }
             &__a:last-child {
                 padding-bottom: 0;
             }
             &__a:hover {
-                color: $color-white;
+                // color: $color-white;
             }
         }
     }
