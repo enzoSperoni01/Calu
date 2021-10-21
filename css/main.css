@@ -10,7 +10,7 @@ html {
   font-size: 62.5%; }
   html body {
     font-family: "Lato", sans-serif; }
-    html body header nav a {
+    html body header nav .header__nav__logo {
       font-family: "Ubuntu", sans-serif; }
 
 .header {

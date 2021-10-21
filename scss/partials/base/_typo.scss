@@ -7,7 +7,7 @@ html {
         font-family: $font-primary; // Inter
         header {
             nav {
-                a {
+                .header__nav__logo {
                     font-family: $font-secondary; // Ubuntu al Logo
                 }
             }
