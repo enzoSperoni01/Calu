@@ -1,11 +1,16 @@
 // Typography
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap'); // Lato
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;500;700;900&display=swap'); // Roboto Slab
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap'); // Ubuntu
 html {
     font-size: 62.5%; // 1rem == 10px
-    font-family: $font-primary;
     body {
         font-family: $font-primary; // Inter
-        // background-color: $bg-site;
+        header {
+            nav {
+                a {
+                    font-family: $font-secondary; // Ubuntu al Logo
+                }
+            }
+        }
     }
 }
