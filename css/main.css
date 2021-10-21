@@ -60,7 +60,7 @@ html {
 
 #main-index .main__div__hero__img {
   width: 100%;
-  padding: 2rem; }
+  padding: 2rem 4rem; }
 
 #main-index .main__div__div-2 {
   padding: 1.8rem;
@@ -72,7 +72,8 @@ html {
   #main-index .main__div__div-2__h2 {
     font-weight: 900;
     font-size: 2rem;
-    margin: 1rem 0; }
+    margin: 1rem 0;
+    color: #0055ff; }
   #main-index .main__div__div-2__p {
     font-weight: 400;
     font-size: 1.4rem;
@@ -81,4 +82,4 @@ html {
 .footer__div {
   padding: 1.8rem; }
   .footer__div__text {
-    font-size: 1.3rem; }
+    font-size: 1.4rem; }
