@@ -5,12 +5,5 @@ html {
     font-size: 62.5%; // 1rem == 10px
     body {
         font-family: $font-primary; // Inter
-        header {
-            nav {
-                .header__nav__logo {
-                    font-family: $font-secondary; // Ubuntu al Logo
-                }
-            }
-        }
     }
 }

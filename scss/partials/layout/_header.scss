@@ -8,6 +8,7 @@
         box-shadow: 0px 2px 6px 0px rgba(0,0,0,0.45);
         padding: 1.5rem;
         &__logo {
+            font-family: $font-secondary;
             font-weight: $font-bold-ubuntu;
             color: hsl(220, 100%, 50%);
             text-decoration: none;
