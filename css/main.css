@@ -107,6 +107,19 @@ html {
       font-weight: 700;
       padding: 0 auto; }
 
+#main-index .main__to-contact {
+  padding: 1rem;
+  text-align: center;
+  margin: 3.4rem; }
+  #main-index .main__to-contact__h2 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 900;
+    font-size: 2rem; }
+    #main-index .main__to-contact__h2 a {
+      text-decoration: none; }
+    #main-index .main__to-contact__h2 a:hover {
+      text-decoration: underline; }
+
 .footer__div {
   padding: 1.8rem; }
   .footer__div__text {

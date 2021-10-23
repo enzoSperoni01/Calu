@@ -69,4 +69,20 @@
             }
         }
     }
+    .main__to-contact {
+        padding: 1rem;
+        text-align: center;
+        margin: 3.4rem;
+        &__h2 {
+            font-family: $font-secondary;
+            font-weight: $font-black;
+            font-size: 2rem;
+            a {
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+        }
+    }
 }
