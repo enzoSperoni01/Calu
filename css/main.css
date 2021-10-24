@@ -139,3 +139,6 @@ html {
       text-decoration: none; }
     #main-about .main__div__p a:hover {
       text-decoration: underline; }
+  #main-about .main__div__img {
+    width: 100%;
+    text-align: center; }
