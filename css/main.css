@@ -158,3 +158,14 @@ html {
       text-decoration: none; }
     #main-project .main__div__p a:hover {
       text-decoration: underline; }
+
+#main-contact form {
+  padding: 2rem; }
+  #main-contact form .form__h1 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-size: 2.7rem;
+    color: #0055ff;
+    text-align: center; }
+  #main-contact form .form__p {
+    font-size: 1.3rem; }

@@ -1,0 +1,15 @@
+#main-contact {
+    form {
+        padding: 2rem;
+        .form__h1 {
+            font-family: $font-secondary;
+            font-weight: $font-bold-ubuntu;
+            font-size: 2.7rem;
+            color: hsl(220, 100%, 50%);
+            text-align: center;
+        }
+        .form__p {
+            font-size: 1.3rem;
+        }
+    }
+}
