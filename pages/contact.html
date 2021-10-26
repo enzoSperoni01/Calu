@@ -39,7 +39,48 @@
 
             <!--======Main======-->
             <main id="main-contact">
-                <div class="main__div"></div>
+                <form action="#" method="#" class="form" data-aos="fade-up" data-aos-delay="400">
+                    <h1 class="form__h1">Contact</h1>
+                    <p class="form__p">In order for us to contact you, we ask that you enter the following information below</p>
+                    <div class="container__form">
+                        <div class="container__form__1">
+                            <label for="sexo">Sex:</label>
+                            <div class="d-flex flex-column">
+                                <div>
+                                    <input type="radio" class="op-1" name="sexo" value="hombre"> Man
+                                </div>
+                                <div>
+                                    <input type="radio" class="op-1" name="sexo" value="hombre"> Woman
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="container__form__2 d-flex flex-column">
+                            <label for="name">Name:</label>
+                            <input type="text" name="name" placeholder="Write your name..." required>
+
+                            <label for="apellido">Last name:</label>
+                            <input type="text" name="last-name" placeholder="Write your last name..." required> 
+
+                            <label for="correo">E-mail:</label>
+                            <input type="email" name="email" placeholder="Write your email..." required>
+                        </div>
+
+                        <div class="container__form__3">
+                            <label for="meet-us">How did you meet us?</label>
+                            <select name="meet-us">
+                                <option disabled selected>Choose an option</option>
+                                <option value="ads">Advertisements</option>
+                                <option value="friend">A friend told me</option>
+                                <option value="discovered">I discovered it alone</option>
+                            </select>
+                        </div>
+
+                        <div class="container__form__4">
+                            
+                        </div>
+                    </div>
+                </form>
             </main>
 
             <!--======Footer======-->
