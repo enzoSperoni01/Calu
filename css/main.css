@@ -193,3 +193,15 @@ html {
     #main-contact form .container__form__2 label {
       font-size: 1.4rem;
       font-weight: 700; }
+  #main-contact form .container__form__3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem; }
+    #main-contact form .container__form__3 select {
+      padding: .7rem;
+      border-radius: .4rem;
+      outline: none; }
+      #main-contact form .container__form__3 select option {
+        font-weight: 700; }
+    #main-contact form .container__form__3 select:focus {
+      outline: 2px solid #0055ff; }
