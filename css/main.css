@@ -168,4 +168,12 @@ html {
     color: #0055ff;
     text-align: center; }
   #main-contact form .form__p {
-    font-size: 1.3rem; }
+    font-size: 1.3rem;
+    font-weight: 700; }
+  #main-contact form .container__form__1 {
+    font-size: 1.3rem;
+    font-weight: 700; }
+    #main-contact form .container__form__1 label {
+      font-size: 1.4rem;
+      font-weight: 900;
+      letter-spacing: .1rem; }

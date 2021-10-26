@@ -10,6 +10,18 @@
         }
         .form__p {
             font-size: 1.3rem;
+            font-weight: $font-bold;
+        }
+        .container__form {
+            &__1 {
+                font-size: 1.3rem;
+                font-weight: $font-bold;
+                label {
+                    font-size: 1.4rem;
+                    font-weight: $font-black;
+                    letter-spacing: .1rem;
+                }
+            }
         }
     }
 }
