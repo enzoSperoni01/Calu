@@ -183,7 +183,7 @@ html {
     #main-contact form .container__form__2 input {
       padding: .6rem;
       font-weight: 700;
-      font-size: 1.1rem;
+      font-size: 1.2rem;
       margin-bottom: 1.3rem;
       outline: none;
       border: 1px solid #000;
@@ -214,8 +214,22 @@ html {
     #main-contact form .container__form__4 textarea {
       font-size: 1.3rem;
       font-weight: 700;
+      border: 1px solid #000;
       border-radius: .4rem;
       padding: 1rem;
       outline: none; }
     #main-contact form .container__form__4 textarea:focus {
       outline: 2px solid #0055ff; }
+  #main-contact form .container__form__5 {
+    margin-top: 3rem; }
+    #main-contact form .container__form__5 input {
+      width: 100%;
+      padding: 1.2rem 2rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+      border: none;
+      border-radius: .4rem;
+      background-color: #3377ff;
+      transition: all 0.3s; }
+    #main-contact form .container__form__5 input:hover {
+      background-color: #0055ff; }
