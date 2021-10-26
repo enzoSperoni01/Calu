@@ -205,3 +205,17 @@ html {
         font-weight: 700; }
     #main-contact form .container__form__3 select:focus {
       outline: 2px solid #0055ff; }
+  #main-contact form .container__form__4 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem; }
+    #main-contact form .container__form__4 label {
+      margin-bottom: .6rem; }
+    #main-contact form .container__form__4 textarea {
+      font-size: 1.3rem;
+      font-weight: 700;
+      border-radius: .4rem;
+      padding: 1rem;
+      outline: none; }
+    #main-contact form .container__form__4 textarea:focus {
+      outline: 2px solid #0055ff; }
