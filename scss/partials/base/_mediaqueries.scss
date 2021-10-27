@@ -73,4 +73,28 @@
             }
         }
     }
+    #main-contact {
+        form {
+            padding: 2.6rem;
+            .form__h1 {
+                font-size: 3.5rem;
+            }
+            .form__p {
+                font-size: 1.6rem;
+                text-align: center;
+            }
+            .container__form {
+                &__1 {
+                    font-size: 1.6rem;
+                    label {
+                        font-size: 1.8rem;
+                        margin-bottom: .6rem;
+                    }
+                    input {
+                        margin-bottom: 1.3rem;
+                    }
+                }
+            }
+        }
+    }
 }

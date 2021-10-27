@@ -271,7 +271,21 @@
       margin-bottom: 3rem; }
     #main-project .main__div p {
       font-size: 1.8rem;
-      margin: 2.3rem 0; } }
+      margin: 2.3rem 0; }
+  #main-contact form {
+    padding: 2.6rem; }
+    #main-contact form .form__h1 {
+      font-size: 3.5rem; }
+    #main-contact form .form__p {
+      font-size: 1.6rem;
+      text-align: center; }
+    #main-contact form .container__form__1 {
+      font-size: 1.6rem; }
+      #main-contact form .container__form__1 label {
+        font-size: 1.8rem;
+        margin-bottom: .6rem; }
+      #main-contact form .container__form__1 input {
+        margin-bottom: 1.3rem; } }
 
 html {
   font-size: 62.5%; }
