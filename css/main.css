@@ -6,6 +6,18 @@
   margin: 0;
   box-sizing: border-box; }
 
+@media screen and (min-width: 768px) {
+  #main-index .main__div__hero {
+    padding: 3rem;
+    margin-bottom: 5rem;
+    display: flex;
+    align-items: center; }
+    #main-index .main__div__hero h1 {
+      font-size: 4rem;
+      text-align: left; }
+    #main-index .main__div__hero img {
+      max-width: 38rem; } }
+
 html {
   font-size: 62.5%; }
   html body {
