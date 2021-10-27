@@ -2,15 +2,15 @@
 @import "partials/utilities/variables";
 @import "partials/utilities/mixins";
 
+// Website
+@import "partials/layout/header";
+@import "partials/layout/footer";
+@import "partials/layout/index";
+@import "partials/layout/about";
+@import "partials/layout/project";
+@import "partials/layout/contact";
+
 // Base
 @import "partials/base/reset";
 @import "partials/base/mediaqueries";
 @import "partials/base/typo";
-
-// Website
-@import "partials/layout/header";
-@import "partials/layout/index";
-@import "partials/layout/footer";
-@import "partials/layout/about";
-@import "partials/layout/project";
-@import "partials/layout/contact";
