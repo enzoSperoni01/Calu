@@ -22,7 +22,17 @@
     #main-index .main__div__title h2 {
       font-size: 2.8rem; }
     #main-index .main__div__title p {
-      font-size: 1.8rem; } }
+      font-size: 1.8rem; }
+  #main-index .main__div__div-2 {
+    padding: 2rem; }
+    #main-index .main__div__div-2 img {
+      width: 5rem;
+      margin: 0 0; }
+    #main-index .main__div__div-2 h2 {
+      margin: .5rem 0;
+      font-size: 2.4rem; }
+    #main-index .main__div__div-2 p {
+      font-size: 1.7rem; } }
 
 html {
   font-size: 62.5%; }
