@@ -285,7 +285,15 @@
         font-size: 1.8rem;
         margin-bottom: .6rem; }
       #main-contact form .container__form__1 input {
-        margin-bottom: 1.3rem; } }
+        margin-bottom: 1.3rem; }
+    #main-contact form .container__form__2 {
+      margin-bottom: 2rem; }
+      #main-contact form .container__form__2 input {
+        padding: .9rem;
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem; }
+      #main-contact form .container__form__2 label {
+        font-size: 1.8rem; } }
 
 html {
   font-size: 62.5%; }
