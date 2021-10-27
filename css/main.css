@@ -293,7 +293,16 @@
         font-size: 1.5rem;
         margin-bottom: 1.5rem; }
       #main-contact form .container__form__2 label {
-        font-size: 1.8rem; } }
+        font-size: 1.8rem; }
+    #main-contact form .container__form__3 {
+      font-size: 1.8rem;
+      margin-bottom: 2.3rem; }
+      #main-contact form .container__form__3 label {
+        font-size: 1.8rem;
+        margin-bottom: .7rem; }
+      #main-contact form .container__form__3 select {
+        font-size: 1.6rem;
+        padding: 1rem; } }
 
 html {
   font-size: 62.5%; }
