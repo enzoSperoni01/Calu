@@ -302,7 +302,14 @@
         margin-bottom: .7rem; }
       #main-contact form .container__form__3 select {
         font-size: 1.6rem;
-        padding: 1rem; } }
+        padding: 1rem; }
+    #main-contact form .container__form__4 {
+      margin-bottom: 1.4rem; }
+      #main-contact form .container__form__4 label {
+        font-size: 1.9rem;
+        margin-bottom: .8rem; }
+      #main-contact form .container__form__4 textarea {
+        font-size: 1.5rem; } }
 
 html {
   font-size: 62.5%; }
