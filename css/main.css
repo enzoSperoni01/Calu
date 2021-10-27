@@ -43,7 +43,13 @@
       margin-bottom: 3rem; }
     #main-about .main__div p {
       font-size: 2rem;
-      margin: 1.7rem 0; } }
+      margin: 1.7rem 0; }
+  #main-project .main__div h1 {
+    font-size: 3.3rem;
+    margin-bottom: 3rem; }
+  #main-project .main__div p {
+    font-size: 2rem;
+    margin: 2.3rem 0; } }
 
 html {
   font-size: 62.5%; }
