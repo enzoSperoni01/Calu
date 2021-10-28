@@ -368,7 +368,11 @@
     #main-index .main__data__div__h2 {
       font-size: 3.7rem; }
     #main-index .main__data__div__p {
-      font-size: 2.2rem; } }
+      font-size: 2.2rem; }
+  #main-index .main__to-contact {
+    padding: 2.5rem; }
+    #main-index .main__to-contact__h2 {
+      font-size: 3rem; } }
 
 html {
   font-size: 62.5%; }

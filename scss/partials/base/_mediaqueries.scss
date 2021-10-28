@@ -216,5 +216,11 @@
                 }
             }
         }
+        .main__to-contact {
+            padding: 2.5rem;
+            &__h2 {
+                font-size: 3rem;
+            }
+        }
     }
 }
