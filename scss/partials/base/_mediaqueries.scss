@@ -158,4 +158,20 @@
             }
         }
     }
+    #main-index {
+        .main__div {
+            &__hero {
+                padding: 4rem;
+                margin: 1rem 0;
+                h1 {
+                    font-size: 6.6rem;
+                    display: flex;
+                    flex-direction: column;
+                }
+                img {
+                    max-width: 50rem;
+                }
+            }
+        }
+    }
 }

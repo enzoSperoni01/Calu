@@ -331,7 +331,16 @@
         margin: 0 2rem;
         transition: color .4s; }
       .header__nav__list__a:hover {
-        color: #004de6; } }
+        color: #004de6; }
+  #main-index .main__div__hero {
+    padding: 4rem;
+    margin: 1rem 0; }
+    #main-index .main__div__hero h1 {
+      font-size: 6.6rem;
+      display: flex;
+      flex-direction: column; }
+    #main-index .main__div__hero img {
+      max-width: 50rem; } }
 
 html {
   font-size: 62.5%; }
