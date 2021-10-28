@@ -211,6 +211,7 @@
     margin-top: 3rem; }
     #main-contact form .container__form__5 input {
       width: 100%;
+      color: #fff;
       padding: 1.2rem 2rem;
       font-size: 1.5rem;
       font-weight: 700;
@@ -219,7 +220,7 @@
       background-color: #3377ff;
       transition: all 0.3s; }
     #main-contact form .container__form__5 input:hover {
-      background-color: #0055ff; }
+      background-color: #004de6; }
 
 * {
   padding: 0;

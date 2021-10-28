@@ -82,6 +82,7 @@
                 margin-top: 3rem;
                 input {
                     width: 100%;
+                    color: #fff;
                     padding: 1.2rem 2rem;
                     font-size: 1.5rem;
                     font-weight: $font-bold;
@@ -91,7 +92,7 @@
                     transition: all 0.3s;
                 }
                 input:hover {
-                    background-color: hsl(220, 100%, 50%);
+                    background-color: hsl(220, 100%, 45%);
                 }
             }
         }
