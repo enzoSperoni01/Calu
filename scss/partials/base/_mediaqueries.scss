@@ -134,3 +134,28 @@
         }
     }
 }
+
+@include desktop {
+    .header {
+        &__nav {
+            padding: 1.5rem;
+            &__logo {
+                font-size: 3.5rem;
+                margin-left: 10rem;
+            }
+            &__list {
+                margin-right: 10rem;
+                padding: 1rem;
+                &__a {
+                    font-size: 2.1rem;
+                    padding: 0;
+                    margin: 0 2rem;
+                    transition: color .4s;
+                }
+                &__a:hover {
+                    color: hsl(220, 100%, 45%);
+                }
+            }
+        }
+    }
+}
