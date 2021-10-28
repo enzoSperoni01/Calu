@@ -68,19 +68,19 @@
     font-weight: 700;
     color: #737373; }
 
-#main-index .main__div__div-2 {
+#main-index .main__div__cards__div-2 {
   padding: 1.8rem;
   margin: 2rem .5rem;
   text-align: center; }
-  #main-index .main__div__div-2__img {
+  #main-index .main__div__cards__div-2__img {
     width: 4.5rem;
     margin: .5rem 0; }
-  #main-index .main__div__div-2__h2 {
+  #main-index .main__div__cards__div-2__h2 {
     font-weight: 900;
     font-size: 2rem;
     margin: 1rem 0;
     color: #0055ff; }
-  #main-index .main__div__div-2__p {
+  #main-index .main__div__cards__div-2__p {
     font-weight: 400;
     font-size: 1.4rem;
     margin: 1rem 0; }
@@ -243,15 +243,15 @@
       font-size: 2.8rem; }
     #main-index .main__div__title p {
       font-size: 1.8rem; }
-  #main-index .main__div__div-2 {
+  #main-index .main__div__cards__div-2 {
     padding: 2rem; }
-    #main-index .main__div__div-2 img {
+    #main-index .main__div__cards__div-2 img {
       width: 5rem;
       margin: 0 0; }
-    #main-index .main__div__div-2 h2 {
+    #main-index .main__div__cards__div-2 h2 {
       margin: .5rem 0;
       font-size: 2.4rem; }
-    #main-index .main__div__div-2 p {
+    #main-index .main__div__cards__div-2 p {
       font-size: 1.7rem; }
   #main-about {
     padding: 3.6rem;
@@ -346,7 +346,21 @@
     #main-index .main__div__title h2 {
       font-size: 3.6rem; }
     #main-index .main__div__title p {
-      font-size: 2.4rem; } }
+      font-size: 2.4rem; }
+  #main-index .main__div__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 4rem 6rem; }
+    #main-index .main__div__cards__div-2 {
+      padding: 2rem; }
+      #main-index .main__div__cards__div-2__img {
+        width: 6rem;
+        margin: 0 0; }
+      #main-index .main__div__cards__div-2__h2 {
+        margin: .5rem 0;
+        font-size: 2.8rem; }
+      #main-index .main__div__cards__div-2__p {
+        font-size: 2rem; } }
 
 html {
   font-size: 62.5%; }

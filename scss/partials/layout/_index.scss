@@ -29,24 +29,26 @@
                 color: hsl(0, 0%, 45%);
             }
         }
-        &__div-2 {
-            padding: 1.8rem;
-            margin: 2rem .5rem;
-            text-align: center;
-            &__img {
-                width: 4.5rem;
-                margin: .5rem 0;
-            }
-            &__h2 {
-                font-weight: $font-black;
-                font-size: 2rem;
-                margin: 1rem 0;
-                color: hsl(220, 100%, 50%);
-            }
-            &__p {
-                font-weight: $font-regular;
-                font-size: 1.4rem;
-                margin: 1rem 0;
+        &__cards {
+            &__div-2 {
+                padding: 1.8rem;
+                margin: 2rem .5rem;
+                text-align: center;
+                &__img {
+                    width: 4.5rem;
+                    margin: .5rem 0;
+                }
+                &__h2 {
+                    font-weight: $font-black;
+                    font-size: 2rem;
+                    margin: 1rem 0;
+                    color: hsl(220, 100%, 50%);
+                }
+                &__p {
+                    font-weight: $font-regular;
+                    font-size: 1.4rem;
+                    margin: 1rem 0;
+                }
             }
         }
     }
