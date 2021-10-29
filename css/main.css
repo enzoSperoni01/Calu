@@ -433,7 +433,13 @@
         margin-bottom: .4rem; }
       #main-contact form .container__form__4 textarea {
         font-size: 1.8rem;
-        resize: none; } }
+        padding: 1.3rem;
+        resize: none; }
+    #main-contact form .container__form__5 {
+      margin-top: 4rem; }
+      #main-contact form .container__form__5 input {
+        padding: 1.8rem 2.3rem;
+        font-size: 2.3rem; } }
 
 html {
   font-size: 62.5%; }
