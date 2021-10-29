@@ -394,7 +394,20 @@
       font-size: 2.5rem;
       margin: 2.7rem 0; }
     #main-project .main__div p:last-child {
-      margin-bottom: 0; } }
+      margin-bottom: 0; }
+  #main-contact form {
+    padding: 3.6rem; }
+    #main-contact form .form__h1 {
+      font-size: 4.6rem; }
+    #main-contact form .form__p {
+      font-size: 2rem; }
+    #main-contact form .container__form__1 {
+      font-size: 1.9rem; }
+      #main-contact form .container__form__1 label {
+        font-size: 2.6rem;
+        margin-bottom: .8rem; }
+      #main-contact form .container__form__1 input {
+        margin-bottom: 1.6rem; } }
 
 html {
   font-size: 62.5%; }
