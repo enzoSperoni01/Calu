@@ -416,7 +416,16 @@
         margin-bottom: 2.5rem; }
       #main-contact form .container__form__2 label {
         font-size: 2.3rem;
-        margin-bottom: .5rem; } }
+        margin-bottom: .5rem; }
+    #main-contact form .container__form__3 {
+      margin-bottom: 3rem; }
+      #main-contact form .container__form__3 label {
+        font-size: 2.4rem;
+        margin-bottom: .9rem; }
+      #main-contact form .container__form__3 select {
+        font-size: 1.8rem;
+        padding: 1.3rem;
+        width: 30rem; } }
 
 html {
   font-size: 62.5%; }
