@@ -425,7 +425,15 @@
       #main-contact form .container__form__3 select {
         font-size: 1.8rem;
         padding: 1.3rem;
-        width: 30rem; } }
+        width: 30rem; }
+    #main-contact form .container__form__4 {
+      margin-bottom: 3rem; }
+      #main-contact form .container__form__4 label {
+        font-size: 2.4rem;
+        margin-bottom: .4rem; }
+      #main-contact form .container__form__4 textarea {
+        font-size: 1.8rem;
+        resize: none; } }
 
 html {
   font-size: 62.5%; }

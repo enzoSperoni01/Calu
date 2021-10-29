@@ -300,6 +300,17 @@
                         width: 30rem;
                     }
                 }
+                &__4 {
+                    margin-bottom: 3rem;
+                    label {
+                        font-size: 2.4rem;
+                        margin-bottom: .4rem;
+                    }
+                    textarea {
+                        font-size: 1.8rem;
+                        resize: none;
+                    }
+                }
             }
         }
     }
