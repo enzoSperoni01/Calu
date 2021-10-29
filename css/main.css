@@ -384,6 +384,16 @@
       font-size: 2.7rem;
       margin: 2.5rem 0; }
     #main-about .main__div p:last-child {
+      margin-bottom: 0; }
+  #main-project {
+    padding: 4.5rem; }
+    #main-project .main__div h1 {
+      font-size: 4.6rem;
+      margin-bottom: 4rem; }
+    #main-project .main__div p {
+      font-size: 2.5rem;
+      margin: 2.7rem 0; }
+    #main-project .main__div p:last-child {
       margin-bottom: 0; } }
 
 html {
