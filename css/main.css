@@ -333,6 +333,10 @@
         transition: color .4s; }
       .header__nav__list__a:hover {
         color: #004de6; }
+  .footer__div {
+    padding: 2.5rem; }
+    .footer__div__text {
+      font-size: 1.7rem; }
   #main-index .main__div__hero {
     padding: 4rem;
     margin: 1rem 0; }
